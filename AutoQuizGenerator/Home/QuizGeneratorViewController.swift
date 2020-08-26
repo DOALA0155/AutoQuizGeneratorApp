@@ -33,7 +33,7 @@ class QuizGeneratorViewController: UIViewController, UITextFieldDelegate {
             
         } else {
             generateButton.isEnabled = false
-            generateButton.setTitle("Generating Quiz...", for: .normal)
+            generateButton.setTitle("生成中", for: .normal)
             
             let url = URL(string: "https://quiz-generator-api.herokuapp.com/generate")!
             var request = URLRequest(url: url)
