@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "quiz_40.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "20x20"
@@ -21,6 +22,7 @@
       "size" : "29x29"
     },
     {
+      "filename" : "quiz_80.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "40x40"
@@ -46,6 +48,7 @@
       "size" : "20x20"
     },
     {
+      "filename" : "quiz_40-1.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "20x20"
@@ -61,11 +64,13 @@
       "size" : "29x29"
     },
     {
+      "filename" : "quiz_40-2.png",
       "idiom" : "ipad",
       "scale" : "1x",
       "size" : "40x40"
     },
     {
+      "filename" : "quiz_80-1.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "40x40"
